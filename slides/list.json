@@ -1,0 +1,108 @@
+[
+    [
+        {
+            "filename": "modern-web-development-tools.md",
+            "attr": {}
+        }
+    ],
+    {
+        "filename": "agenda.md",
+        "attr": {
+            "data-background": ""
+        }
+    },
+    [
+        {
+            "filename": "why.md",
+            "attr": {
+                "data-transition": "zoom"
+            }
+        },
+        {
+            "filename": "single-page-applications.md",
+            "attr": {}
+        },
+        {
+            "filename": "content-distribution-networks.md",
+            "attr": {}
+        },
+        {
+            "filename": "separation-of-concerns.md",
+            "attr": {}
+        },
+        {
+            "filename": "mobile-ready.md",
+            "attr": {
+
+            }
+        }
+    ],
+    [
+        {
+            "filename": "workflow.md",
+            "attr": {}
+        },
+        {
+            "filename": "new-set-of-tools.md",
+            "attr": {}
+        }
+    ],
+    [
+        {
+            "filename": "foundation.md",
+            "attr": {}
+        },
+        {
+            "filename": "nodejs.md",
+            "attr": {}
+        },
+        {
+            "filename": "node-package-manager.md",
+            "attr": {}
+        }
+    ],
+    [
+        {
+            "filename": "application-generation.md",
+            "attr": {}
+        },
+        {
+            "filename": "yeoman.md",
+            "attr": {}
+        }
+    ],
+    [
+        {
+            "filename": "web-dependency-management.md",
+            "attr": {}
+        },
+        {
+            "filename": "bower.md",
+            "attr": {}
+        },
+        {
+            "filename": "javascript-package-manager.md",
+            "attr": {}
+        }
+    ],
+    [
+        {
+            "filename": "task-runners.md",
+            "attr": {}
+        },
+        {
+            "filename": "grunt.md",
+            "attr": {}
+        },
+        {
+            "filename": "gulp.md",
+            "attr": {}
+        }
+    ],
+    {
+        "filename": "resoures.md",
+        "attr": {
+            "data-background": "#009900"
+        }
+    }
+]

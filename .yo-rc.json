@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Modern Web Development Tools Demo",
+    "packageVersion": "0.0.1",
+    "revealTheme": "league",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "0xbrock",
+    "githubRepository": "ModernWebDevelopmentToolsDemo"
+  }
+}
